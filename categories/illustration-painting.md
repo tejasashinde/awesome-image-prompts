@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
+- [GPT Image 1.5](#gpt-image-15)
 
 ---
 
@@ -87,3 +88,12 @@ Create a children's book illustration introducing a main character. A young fore
 Create a 10 × 10 grid of 100 different topics representing recent technological progress. Use a realistic, polished editorial illustration style. Each topic should appear in its own square with a short clear label underneath. Keep the grid neat on a white background. Make every topic visually different and every label correctly spelled. Use these row themes: Row 1: AI models and agents Row 2: robotics Row 3: semiconductors and compute Row 4: networks and smart devices Row 5: biotech and health technology Row 6: energy and power systems Row 7: transport and autonomy Row 8: space and aerospace Row 9: manufacturing and materials Row 10: climate and environmental technology. Show each tile as a realistic mini-scene, product-class object, lab instrument, robot, chip, vehicle, or device that clearly conveys the topic. Keep the overall style consistent, modern, realistic, and visually impressive.
 ```
 **Source:** [Reddit](https://www.reddit.com/r/ChatGPT/comments/1sraucf/image_20_is_now_online_on_chatgpt_and_its/)
+
+## GPT Image 1.5
+
+### Flat-Style Virtual Conference Ad
+**Prompt:**
+```
+Design a Facebook ad for a virtual conference, modern flat-style illustration of a laptop and participants on video call, headline: ‘JOIN THE AI SUMMIT 2025’, subtitle for registration details, clear hierarchy, pastel background with minimal decorative shapes, professional and readable layout.
+```
+**Source:** [Imagine Art](https://www.imagine.art/blogs/gpt-image-1-5-prompt-guide)

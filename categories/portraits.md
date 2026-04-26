@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
+- [GPT Image 1.5](#gpt-image-15)
 
 ---
 
@@ -139,3 +140,47 @@ Generate a cinematic portrait of a solitary figure standing in an intense orange
 A professional medium-shot portrait of a confident woman in her 30s wearing a tailored navy blue blazer. Neutral grey studio background. Soft three-point lighting. Realistic skin texture, visible pores, and natural hair strands. 8k resolution, shot on 85mm lens
 ```
 **Source:** [NoteGPT](https://notegpt.io/blog/gpt-image-2-prompt-guide-use-cases)
+
+## GPT Image 1.5
+
+### Photorealistic portrait of a woman sitting near window during daylight
+**Prompt:**
+```
+Photorealistic portrait of a woman in her early 30s sitting near a window, natural daylight illuminating her face from the left, realistic skin texture with subtle freckles, minimal makeup, soft shadows, shallow depth of field, shot with a 50mm lens, cinematic color grading, ultra-high detail.
+```
+**Source:** [GenAIntel](https://www.genaintel.com/guides/gpt-image-1-5-launch-guide-complete)
+
+### DSLR portrait of a woman sitting near cafe window
+**Prompt:**
+```
+A photorealistic portrait of a 35-year-old woman standing near a café window, soft natural daylight, realistic skin texture, subtle imperfections, shallow depth of field, DSLR photography style
+```
+**Source:** [Imagine Art](https://www.imagine.art/blogs/gpt-image-1-5-prompt-guide)
+
+### Outdoor portrait of a wind movement in hair
+**Prompt:**
+```
+High-fidelity outdoor portrait with natural wind movement in hair, golden hour lighting, realistic facial expressions, 85mm lens look.
+```
+**Source:** [Imagine Art](https://www.imagine.art/blogs/gpt-image-1-5-prompt-guide)
+
+### Family portrait at home
+**Prompt:**
+```
+Warm candid family portrait at home: parents and two children laughing on a sofa, natural interactions, accurate skin tones for mixed ethnicities, soft indoor lighting, preserve individual facial features and avoid over-retouching.
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+### Photorealistic portrait of a smiling woman 
+**Prompt:**
+```
+Photorealistic close-up portrait of a young woman (early 30s) smiling softly, natural golden-hour lighting, shallow depth of field, DSLR-level detail, preserve original facial features and expression, realistic skin texture and pores, accurate eye reflections, subtle makeup, warm color grading, full-resolution, keep background blurred but coherent. Use precise edits only where requested and maintain identity consistency across variants.
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+### Black and white documentary portrait of fisherewoman
+**Prompt:**
+```
+Black-and-white documentary portrait of a fisherwoman returning with morning catch: authentic facial lines, wet clothing texture, natural sea-spray highlights, high-resolution detail that preserves identity while conveying gritty realism.
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)

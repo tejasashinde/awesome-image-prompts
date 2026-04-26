@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
+- [GPT Image 1.5](#gpt-image-15)
 
 ---
 
@@ -23,3 +24,12 @@ vintage dictionary art print, engraving-style illustration of a stag's head with
 Create an infographic about giant pandas. Choose a visual style that fits the subject
 ```
 **Source:** [IT Daily](https://itdaily.com/blogs/software/chatgpt-images-nano-banana-best-images/)
+
+## GPT Image 1.5
+
+### AI Content Workflow Infographic
+**Prompt:**
+```
+A clean infographic showing 'AI Content Workflow' with four horizontal panels, each with an icon and short description, bold sans-serif text, minimal flat design.
+```
+**Source:** [GenAIntel](https://www.genaintel.com/guides/gpt-image-1-5-launch-guide-complete)

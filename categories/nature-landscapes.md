@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
+- [GPT Image 1.5](#gpt-image-15)
 
 ---
 
@@ -28,3 +29,28 @@ dramatic volcanic eruption at twilight, rivers of glowing lava flowing down the 
 floating islands in the sky connected by ancient stone bridges, waterfalls cascading into clouds below, lush vegetation and tiny villages, warm sunset light, Studio Ghibli meets photorealism --v 8 --ar 16:9 --s 600
 ```
 **Source:** [MJV8](https://midjourney-v8.com/blog/best-midjourney-v8-prompts)
+
+## GPT Image 2
+
+### Glacial lake
+**Prompt:**
+```
+A turquoise glacial lake nestled between snow-capped alpine peaks, mirror-still reflection, golden hour lighting, drone aerial view
+```
+**Source:** [dzine](https://www.dzine.ai/blog/chatgpt-image-2-0-prompts/)
+
+## GPT Image 1.5
+
+### Floating miniature Island
+**Prompt:**
+```
+Create an ultra-HD, hyper-realistic digital poster of a floating miniature island shaped like [Country], resting on white clouds in the sky. Blend iconic landmarks, natural landscapes (like [landmark 1], [landscape 2], or [landscape 3]), and cultural elements unique to [Country]. Carve "[Country]" into the terrain using large white 3D letters. Add artistic details like [wildlife], cinematic lighting, vivid colors, aerial perspective, and sun reflections to enhance realism
+```
+**Source:** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2024277162652815403)
+
+### Travel Postcard of Santorini-style cliffside
+**Prompt:**
+```
+Panoramic travel postcard of Santorini-style cliffside at golden hour: whitewashed buildings, realistic sea reflections, tourists are realistic small-scale figures, maintain atmospheric haze and warm selective contrast, include small legible caption 'Santorini, Greece' in bottom-right. Aspect ratio: 16:9
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)

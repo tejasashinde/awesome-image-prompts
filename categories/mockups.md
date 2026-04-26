@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
+- [GPT Image 1.5](#gpt-image-15)
 
 ---
 
@@ -37,3 +38,19 @@ Create a museum archive photograph of two perfectly recognizable wireless earbud
 A luxury watch displayed on a dark marble surface with a single droplet of water nearby, product photography, dramatic lighting
 ```
 **Source:** [dzine](https://www.dzine.ai/blog/chatgpt-image-2-0-prompts/)
+
+## GPT Image 1.5
+
+### Modern smartwatch on black surface product showcase
+**Prompt:**
+```
+Studio lighting, ultra-realistic 4K photo of a modern smartwatch on a reflective black surface, soft warm rim lighting, sharp reflections and crisp details, shot with depth-of-field blur.
+```
+**Source:** [GenAIntel](https://www.genaintel.com/guides/gpt-image-1-5-launch-guide-complete)
+
+### E‑commerce Product Photo of Ceramic mug
+**Prompt:**
+```
+White-background product shot of matte ceramic mug: front and three-quarter views, crisp shadows, true color reproduction, realistic reflections, add small price tag overlay with legible font 'USD 24.99'—ensure text renders accurately and is clear at small sizes.
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
