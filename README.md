@@ -4,6 +4,10 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Stars](https://img.shields.io/github/stars/tejasashinde/awesome-image-prompts?style=flat-square&color=gold)](https://github.com/tejasashinde/awesome-image-prompts/stargazers)
 
+<p align="center">
+    <img src="./banner.png" style="border:2px solid #bbb; border-radius:8px; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+</p>
+
 A curated, community-driven collection of prompts for image generation models. This repository organizes prompts by category and aims to build a structured and reliable image prompt library that keeps them reusable and easy to explore.
 
 ---
