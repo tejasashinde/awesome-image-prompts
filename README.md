@@ -12,9 +12,10 @@ A curated, community-driven collection of prompts for image generation models. T
 
 ```
 categories/
-  ├── illustration.md
+  ├── illustration-painting.md
   ├── infographics-typography.md
   ├── mockups.md
+  ├── nature-landscapes.md
   └── portraits.md
 ```
 
