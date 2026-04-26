@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
-- [ChatGPT Images 2.0](#chatgpt-images-20)
+- [GPT Image 2](#gpt-image-2)
 
 ---
 
@@ -72,7 +72,7 @@ a brush and hillside painting of various random curved shapes and humanoid asymm
 ```
 **Source:** [MJ alpha](https://alpha.midjourney.com/jobs/35880839-abff-4238-b542-8a4d26cd1b3c)
 
-## ChatGPT Images 2.0
+## GPT Image 2
 
 ### Forest Helper Children's Book Character Illustration
 **Prompt:**

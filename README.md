@@ -42,7 +42,7 @@ Each file inside `categories/` contains prompts grouped by use case and model ty
 The following image categories are included:
 
 1. **[`Illustration and Painting`](./categories/illustration-painting.md)** – Creative digital art prompts  
-2. **[`Infographics & Typography`](./categories/infographics-typography.md)** – Design-focused layout prompts  
+2. **[`Infographics and Typography`](./categories/infographics-typography.md)** – Design-focused layout prompts  
 3. **[`Mockups`](./categories/mockups.md)** – Product and UI presentation prompts  
 4. **[`Nature and Landscapes`](./categories/nature-landscapes.md)** – Scenic and environment-focused prompts
 5. **[`Portraits`](./categories/portraits.md)** – Character and portrait-focused prompts 

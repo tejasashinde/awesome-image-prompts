@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
-- [ChatGPT Images 2.0](#chatgpt-images-20)
+- [GPT Image 2](#gpt-image-2)
 
 ---
 

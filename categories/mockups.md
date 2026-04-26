@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
-- [ChatGPT Images 2.0](#chatgpt-images-20)
+- [GPT Image 2](#gpt-image-2)
 
 ---
 
@@ -22,7 +22,7 @@ heart shaped pink gummy bears candy, jelly texture, translucent glossy surface, 
 ```
 **Source:** [MJ alpha](https://alpha.midjourney.com)
 
-## ChatGPT Images 2.0
+## GPT Image 2
 
 ### Museum Archive Display of Stone-Carved Wireless Earbuds
 **Prompt:**

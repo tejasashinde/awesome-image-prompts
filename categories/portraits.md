@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
-- [ChatGPT Images 2.0](#chatgpt-images-20)
+- [GPT Image 2](#gpt-image-2)
 
 ---
 
@@ -99,7 +99,7 @@ Portrait photography of a Japanese high school boy. White background. White shir
 ```
 **Source:** [MJ alpha](https://alpha.midjourney.com/jobs/7e2f95d8-67f5-4051-98fa-a8a8d6fbf41b)
 
-## ChatGPT Images 2.0
+## GPT Image 2
 
 ### Professional Studio Headshot Portrait of Woman with Soft Lighting
 **Prompt:**
