@@ -1,4 +1,4 @@
-# Portraits
+# Infographics and Typography
 
 ## Table of Contents
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)

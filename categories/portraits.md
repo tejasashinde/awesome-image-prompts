@@ -36,6 +36,69 @@ Professional woman in her 30s, confident subtle smile, shoulders turned slightly
 ```
 **Source:** [Blake Crosley](https://blakecrosley.com/guides/midjourney)
 
+### She Who Carries the Night Sky
+**Prompt:**
+```
+A mysterious woman standing in complete darkness, wearing a deep hooded cloak that contains an entire galaxy—stars, nebulae, and drifting cosmic dust visible within the fabric, her face barely visible with soft starlight illuminating her lips and eyes, particles floating around her like constellations forming, surreal yet photorealistic rendering, extreme detail, cinematic lighting, deep shadows, 8K, studio-quality realism
+```
+**Source:** [Reddit](https://www.reddit.com/r/midjourney/comments/1rwxxo0/prompt_sharing_midjourney_v8_alpha)
+
+### Cinematic Portrait of fisherman
+**Prompt:**
+```
+portrait of a weathered fisherman with deep blue eyes, silver beard, morning light, shot on Hasselblad, shallow depth of field, cinematic color grading, photorealistic --v 8 --ar 2:3
+```
+**Source:** [MJV8](https://midjourney-v8.com/blog/best-midjourney-v8-prompts)
+
+### Cyberpunk Portrait
+**Prompt:**
+```
+close-up portrait of a cyberpunk hacker with neon circuit tattoos glowing under UV light, data streams reflected in mirrored sunglasses, dark rain-soaked alley background, blade runner aesthetic --v 8 --ar 3:4
+```
+**Source:** [MJV8](https://midjourney-v8.com/blog/best-midjourney-v8-prompts)
+
+### Eye-level Headshot of 30 yr old Woman
+**Prompt:**
+```
+straight-on eye-level photo headshot of 30 year old full faced Milana Vayntrub in white photo studio wearing neutral blue shirt, with perfect neat hair tucked behind cute bare ears. Stoic expression. no earrings. No makeup. Perfect eyebrows. luscious wet lips
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com)
+
+### Close-up portrait of an East Asian young woman
+**Prompt:**
+```
+a highly memorable frontal close-up portrait of an East Asian young woman, refined slim face, delicate bone structure, wide eye spacing, relaxed open facial proportions, subtle low contrast beauty, pale cool luminous skin, calm focused eyes, restrained and distant expression, straight shoulder-length black hair, sleek and tidy, soft side part, one side tucked behind the ear, smooth clean silhouette, fine loose strands near the temple, straight delicate nose bridge, soft rose lips, realistic clear skin texture, a very faint healed scar near the left brow tail toward the outer eye, elegant cold beauty, quiet survivor aura, hidden history, beautiful digital IP character face, cinematic realism, cool muted palette, shallow depth of field, 85mm lens, no plastic skin
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com)
+
+### Photorealistic full body portrait of a tall female
+**Prompt:**
+```
+Photorealistic full body portrait of a tall female, wind swept blonde hair, aviator goggles with magenta lens pushed up on forehead, rugged brown jacket over gray tank top, green pants with straps, belts, and utility pouches, silver ornaments, large ornate golden compass on belt, rugged black combat boots with worn leather texture, holding a large torn map in both hands. Biomechanical cybernetic bird with folded wings on her shoulder, polished bronze with visible mechanical details. Behind her: a retro sci fi saucer shaped plane, bright yellow with metallic armor, black cybernetic parts, classic propeller, riveted fuselage, futuristic glowing accents, bold retro design. Cybernetic details integrated into background. Green rocky cliff backdrop, blue sky with scattered clouds, dry rocky ground. Soft volumetric lighting, atmospheric, heavily weathered, gritty texture, dramatic action movie tone.
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com)
+
+### Portrait photo of a 18 years old Asian girl
+**Prompt:**
+```
+frontal portrait photo of a 18 years old Asian girl, model, professional shirt, white background, sharp focus
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com)
+
+### Portrait photo of Japanese high school boy
+**Prompt:**
+```
+Portrait photography of a Japanese high school boy. White background. White shirt
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com/jobs/e3d1d5d4-4f0e-44d6-93f4-5560f74d4c99)
+
+### Portrait of Korean school girl
+**Prompt:**
+```
+19세 소녀 한국학생 리얼 사진 교복을 입고 단발머리 책가방을 들고 있다
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com/jobs/7e2f95d8-67f5-4051-98fa-a8a8d6fbf41b)
+
 ## ChatGPT Images 2.0
 
 ### Professional Studio Headshot Portrait of Woman with Soft Lighting
