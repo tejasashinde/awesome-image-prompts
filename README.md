@@ -30,8 +30,8 @@ Each file inside `categories/` contains prompts grouped by use case and model ty
 ## ✨ Features
 
 - High-quality image generation prompts  
-- Organized by category (illustration, portraits, mockups, etc.)  
-- Model-specific prompt sections  
+- Organized by category (portraits, mockups, etc.)  
+- Model-specific prompt sections (Midjourney V8, GPT Image 2) 
 - Source links for verification and inspiration  
 - Strictly **Safe For Work (SFW)** prompts only  
 
