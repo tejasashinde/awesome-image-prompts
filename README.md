@@ -42,7 +42,7 @@ Each file inside `categories/` contains prompts grouped by use case and model ty
 
 The following image categories are included:
 
-1. **[`Grid`](./categories/illustration-painting.md)** – Grid style prompts
+1. **[`Grid`](./categories/grid.md)** – Grid style prompts
 2. **[`Illustration and Painting`](./categories/illustration-painting.md)** – Creative digital art prompts  
 3. **[`Infographics and Typography`](./categories/infographics-typography.md)** – Design-focused layout prompts  
 4. **[`Mockups`](./categories/mockups.md)** – Product and UI presentation prompts  
