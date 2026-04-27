@@ -30,6 +30,8 @@ floating islands in the sky connected by ancient stone bridges, waterfalls casca
 ```
 **Source:** [MJV8](https://midjourney-v8.com/blog/best-midjourney-v8-prompts)
 
+---
+
 ## GPT Image 2
 
 ### Glacial lake
@@ -38,6 +40,8 @@ floating islands in the sky connected by ancient stone bridges, waterfalls casca
 A turquoise glacial lake nestled between snow-capped alpine peaks, mirror-still reflection, golden hour lighting, drone aerial view
 ```
 **Source:** [dzine](https://www.dzine.ai/blog/chatgpt-image-2-0-prompts/)
+
+---
 
 ## GPT Image 1.5
 

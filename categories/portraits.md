@@ -100,6 +100,8 @@ Portrait photography of a Japanese high school boy. White background. White shir
 ```
 **Source:** [MJ alpha](https://alpha.midjourney.com/jobs/7e2f95d8-67f5-4051-98fa-a8a8d6fbf41b)
 
+---
+
 ## GPT Image 2
 
 ### Professional Studio Headshot Portrait of Woman with Soft Lighting
@@ -140,6 +142,75 @@ Generate a cinematic portrait of a solitary figure standing in an intense orange
 A professional medium-shot portrait of a confident woman in her 30s wearing a tailored navy blue blazer. Neutral grey studio background. Soft three-point lighting. Realistic skin texture, visible pores, and natural hair strands. 8k resolution, shot on 85mm lens
 ```
 **Source:** [NoteGPT](https://notegpt.io/blog/gpt-image-2-prompt-guide-use-cases)
+
+### Mirror Selfie Bedroom Portrait
+**Prompt:**
+```
+A stunning 18-year-old Chinese girl with a youthful, pure face and realistic skin texture, sitting on a cozy, slightly messy bed in her bedroom. She is taking a mirror selfie with a smartphone, capturing a natural and intimate moment. Wearing casual gray loungewear and neat white crew socks. Soft natural light (golden hour) streams in from a side window, creating a warm, moody, and cinematic atmosphere. 35mm lens, sharp focus on the subject in the mirror, depth of field with a beautifully blurred background (bokeh). Photorealistic, 8K, high resolution, studio quality, masterpiece.
+Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no watermark, no text, no cartoon/anime style. Aspect Ratio: 3:4.
+```
+**Source:** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
+
+### CCD Camera Flash Korean Idol
+**Prompt:**
+```
+mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur, young Korean female idol, soft innocent look
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
+
+### CCD Camera Flash Korean Idol
+**Prompt:**
+```
+Photorealistic yakuza drama still, gang members in sharp black suits gathered in a dimly lit izakaya, cigarette smoke curling, sake bottles on table, tense standoff energy, dramatic shadows, desaturated color palette with red accents, film grain, 8k resolution --chaos 10 --ar 16:9 --sref 8416398201 --raw --sw 50 --v 8
+```
+**Source:** [heatherbcooper](https://heatherbcooper.substack.com/p/midjourney-v8-is-live-on-alpha-heres)
+
+### Soft Airy 35mm Portrait
+**Prompt:**
+```
+Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffused natural window light, slight overexposure, pastel tones, low contrast, soft highlights, minimal indoor setting near a window with white curtains, clean light-colored wall, natural composition, eye-level, slightly closer full-body framing (mid-thigh to head), young East Asian woman, natural minimal makeup, soft realistic skin texture, long slightly messy dark hair, oversized white button-up shirt, light casual shorts, barefoot, simple and relaxed styling, standing naturally with relaxed posture, arms loosely at sides or slightly behind, facing camera, gentle soft smile, subtle stillness, focus on light, air, and quiet everyday mood, soft film grain, dreamy and understated atmosphere --ar 9:16
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
+
+### Dreamy Oriental female portrait prompt
+**Prompt:**
+```
+梦幻东方女性人像，成年女性，近景肖像，精致五官，白皙通透肌肤，细腻但干净的皮肤质感，祖母绿色眼睛，柔和迷人眼神，棕色微卷发自然散落；
+米白色蕾丝头饰，青绿色蝴蝶点缀，珍珠装饰，服饰为精致蕾丝礼服，结构清晰，纹理干净不过度复杂，祖母绿宝石饰品；
+光影为柔和暖金色侧逆光，轮廓光清晰但不过曝，皮肤有轻微高光但不过度反射，整体光线干净通透，背景柔和虚化，浅景深；
+高级人像摄影质感，细节清晰但克制，无颗粒感，无噪点，真实物理光影，8K，商业级质感。比例：9:16
+```
+**Source:** [View original tweet](https://x.com/liyue_ai/status/2048046253842559183)
+
+### Fujifilm Strawberry School Portrait
+**Prompt:**
+```
+9:16 vertical — Japanese Fuji film style portrait, single subject  Fujifilm analog aesthetic (Pro 400H / Superia feel), soft pastel tones, slight green-magenta shift, low contrast, gentle highlight roll-off, fine film grain, subtle halation, slight vignette  bright natural daylight, diffused sunlight through window, soft shadows, airy atmosphere  young Japanese female idol, natural minimal makeup, fresh glowing skin, realistic texture, slight imperfections  outfit: Japanese school uniform (sailor-style or blazer uniform), neatly styled, non-revealing, youthful and clean  hair: natural dark hair, straight or softly flowing, a few loose strands  pose: front-facing or slight angle toward camera, relaxed posture; one hand gently holding a strawberry near lips, mid-action as if about to take a bite; shoulders relaxed, subtle natural body curve  expression: soft playful gaze, light smile or neutral lips, gentle eye contact with camera  setting: minimal indoor near window or simple outdoor corner, clean background, everyday atmosphere  composition: slightly off-center framing, intimate distance, candid feel  mood: fresh, youthful, sweet everyday moment, understated charm  quality: ultra-realistic, analog film look, natural imperfections, soft dreamy finish
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2046483268019884384)
+
+### 6-Block Fashion Campaign Prompt Formula
+**Prompt:**
+```
+Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background
+```
+**Source:** [View original tweet](https://x.com/anacoding/status/2046904999045628114)
+
+### Luxury Lifestyle Mustang Shot
+**Prompt:**
+```
+A stylish young woman with long wavy blonde hair, defined cheekbones, and a confident expression, wearing black sunglasses and a thick white puffer jacket over a fitted black top, standing confidently in front of a vibrant hot-pink Ford Mustang. She is posing with one hand slightly raised near her chest, exuding effortless attitude and elegance. The car is parked on a scenic coastal road lined with blooming pink cherry blossom trees and tall palm trees. Behind them is a calm sea under a dramatic overcast sky with soft clouds. Pink petals are scattered on the wet asphalt. A wooden bench is visible on the left side near the water. Cinematic lighting, photorealistic, ultra-detailed skin texture, natural lighting reflections, Instagram-style luxury lifestyle shot, vibrant colors, moody atmosphere, 8k resolution --ar 9:16 --stylize 250
+```
+**Source:** [View original tweet](https://x.com/Just_sharon7/status/2048095904138485962)
+
+### Luxury Glam Beauty Portrait
+**Prompt:**
+```
+Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
+```
+**Source:** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
+
+---
 
 ## GPT Image 1.5
 
@@ -182,5 +253,12 @@ Photorealistic close-up portrait of a young woman (early 30s) smiling softly, na
 **Prompt:**
 ```
 Black-and-white documentary portrait of a fisherwoman returning with morning catch: authentic facial lines, wet clothing texture, natural sea-spray highlights, high-resolution detail that preserves identity while conveying gritty realism.
+```
+**Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+### Outdoor Portrait
+**Prompt:**
+```
+A relaxed three-quarter portrait of a 55-year-old fisherman with weathered tan skin and salt-grey hair, standing by a wooden harbor railing at overcast noon. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens. Even soft daylight, no harsh shadow, every wrinkle and pore sharply rendered. He half-smiles toward the camera, knit sweater stretched and pilled from real wear. Background fishing boats softly out of focus. Documentary color grading, slight film-like halation around highlights.
 ```
 **Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
