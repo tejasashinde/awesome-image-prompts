@@ -191,7 +191,7 @@ Mid-Right: Large, bold "30" with the text "hours of battery life."
 Bottom-Right: Large, bold "1" with the text "year warranty."
 Style: 8k resolution, commercial product photography, vibrant color palette, sharp focus on the product case, shallow depth of field, clean advertising aesthetic.
 ```
-**Source:** [View original tweet](https://x.com/rovvmut_/status/2047912710365761828)
+**Source:** [@rovvmut_](https://x.com/rovvmut_/status/2047912710365761828)
 
 ### E-commerce Earbuds Infographic Prompt
 **Prompt:**
@@ -252,7 +252,7 @@ Bottom-right: Large bold “1” with “year warranty”
 
 Style: Ultra-realistic, commercial product photography, 8k resolution, sharp focus on product case, shallow depth of field, vibrant yet clean color palette, premium advertising aesthetic.
 ```
-**Source:** [View original tweet](https://x.com/SPEEDAI07/status/2047981795552153860)
+**Source:** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2047981795552153860)
 
 ### BMW Performance Social Poster
 **Prompt:**
@@ -282,7 +282,7 @@ Optional small callout text near the bottom: “Now with more regret.”
 
 Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can, shallow depth of field, vibrant trashy color palette, clean advertising composition, exaggerated premium product-ad aesthetic, funny visual contrast between polished branding and the wrecked subject. Make it feel like a real ad campaign created by a marketing team that has completely lost the plot.
 ```
-**Source:** [View original tweet](https://x.com/tonysimons_/status/2048057490940596595)
+**Source:** [@tonysimons_](https://x.com/tonysimons_/status/2048057490940596595)
 
 ---
 

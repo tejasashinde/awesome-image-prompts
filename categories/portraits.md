@@ -180,7 +180,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 光影为柔和暖金色侧逆光，轮廓光清晰但不过曝，皮肤有轻微高光但不过度反射，整体光线干净通透，背景柔和虚化，浅景深；
 高级人像摄影质感，细节清晰但克制，无颗粒感，无噪点，真实物理光影，8K，商业级质感。比例：9:16
 ```
-**Source:** [View original tweet](https://x.com/liyue_ai/status/2048046253842559183)
+**Source:** [@liyue_ai](https://x.com/liyue_ai/status/2048046253842559183)
 
 ### Fujifilm Strawberry School Portrait
 **Prompt:**
@@ -194,14 +194,14 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 ```
 Old money Hamptons editorial, tall blonde woman late 20s, serene elegant expression, wearing cream cashmere cable sweater, pleated beige tennis skirt, pearl earrings, Hermès silk scarf, leather flats, Slim Aarons photography style, medium format film photography, sitting on a white wooden porch of a Cape Cod house, golden hour light, ocean in the background
 ```
-**Source:** [View original tweet](https://x.com/anacoding/status/2046904999045628114)
+**Source:** [@anacoding](https://x.com/anacoding/status/2046904999045628114)
 
 ### Luxury Lifestyle Mustang Shot
 **Prompt:**
 ```
 A stylish young woman with long wavy blonde hair, defined cheekbones, and a confident expression, wearing black sunglasses and a thick white puffer jacket over a fitted black top, standing confidently in front of a vibrant hot-pink Ford Mustang. She is posing with one hand slightly raised near her chest, exuding effortless attitude and elegance. The car is parked on a scenic coastal road lined with blooming pink cherry blossom trees and tall palm trees. Behind them is a calm sea under a dramatic overcast sky with soft clouds. Pink petals are scattered on the wet asphalt. A wooden bench is visible on the left side near the water. Cinematic lighting, photorealistic, ultra-detailed skin texture, natural lighting reflections, Instagram-style luxury lifestyle shot, vibrant colors, moody atmosphere, 8k resolution --ar 9:16 --stylize 250
 ```
-**Source:** [View original tweet](https://x.com/Just_sharon7/status/2048095904138485962)
+**Source:** [@Just_sharon7](https://x.com/Just_sharon7/status/2048095904138485962)
 
 ### Luxury Glam Beauty Portrait
 **Prompt:**

@@ -53,7 +53,7 @@ Coffee brand visual identity mockup for ‘GROUNDED’. Logo: minimal coffee-bea
 ```
 A soft cream-colored bottle with a pastel yellow pump stands on a matte podium, surrounded by silky foam and chamomile blossoms. The background is a pale yellow gradient with subtle bubble details. The label emphasizes organic chamomile and calming care. Fresh chamomile flowers accentuate the gentle appeal.
 ```
-**Source:** [View original tweet](https://x.com/Strength04_X/status/2047636636847231222)
+**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2047636636847231222)
 
 ### Minimalist Product Ad: PURE CRUNCH
 **Prompt:**
@@ -70,7 +70,7 @@ Small text below: “Nothing extra. Just perfection.”
 
 Style: ultra clean, editorial minimal, high-end branding, 8K.
 ```
-**Source:** [View original tweet](https://x.com/Strength04_X/status/2047917220165231011)
+**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2047917220165231011)
 
 ### Skincare Brand Packaging Design
 **Prompt:**
@@ -95,7 +95,7 @@ Tiny figurine construction workers dressed in yellow coveralls and white hard ha
 
 Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 8K resolution, photorealistic CGI render.
 ```
-**Source:** [View original tweet](https://x.com/Strength04_X/status/2048074514278563949)
+**Source:** [@Strength04_X](https://x.com/Strength04_X/status/2048074514278563949)
 
 ---
 

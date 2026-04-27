@@ -55,4 +55,4 @@ Environment & Lighting: Set against a minimalist, neutral studio gray background
 
 Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for "Placeholder Branding" and "Graphic Mockups." 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.
 ```
-**Source:** [View original tweet](https://x.com/ShamsAmin56/status/2047627860752621647)
+**Source:** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2047627860752621647)
