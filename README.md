@@ -16,6 +16,7 @@ A curated, community-driven collection of prompts for image generation models. T
 
 ```
 categories/
+  ├── grid.md
   ├── illustration-painting.md
   ├── infographics-typography.md
   ├── mockups.md
@@ -41,11 +42,12 @@ Each file inside `categories/` contains prompts grouped by use case and model ty
 
 The following image categories are included:
 
-1. **[`Illustration and Painting`](./categories/illustration-painting.md)** – Creative digital art prompts  
-2. **[`Infographics and Typography`](./categories/infographics-typography.md)** – Design-focused layout prompts  
-3. **[`Mockups`](./categories/mockups.md)** – Product and UI presentation prompts  
-4. **[`Nature and Landscapes`](./categories/nature-landscapes.md)** – Scenic and environment-focused prompts
-5. **[`Portraits`](./categories/portraits.md)** – Character and portrait-focused prompts 
+1. **[`Grid`](./categories/illustration-painting.md)** – Grid style prompts
+2. **[`Illustration and Painting`](./categories/illustration-painting.md)** – Creative digital art prompts  
+3. **[`Infographics and Typography`](./categories/infographics-typography.md)** – Design-focused layout prompts  
+4. **[`Mockups`](./categories/mockups.md)** – Product and UI presentation prompts  
+5. **[`Nature and Landscapes`](./categories/nature-landscapes.md)** – Scenic and environment-focused prompts
+6. **[`Portraits`](./categories/portraits.md)** – Character and portrait-focused prompts 
 
 ---
 
