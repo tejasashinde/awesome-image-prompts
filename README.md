@@ -16,6 +16,7 @@ A curated, community-driven collection of prompts for image generation models. T
 
 ```
 categories/
+  ├── character.md
   ├── grid.md
   ├── illustration-painting.md
   ├── infographics-typography.md
@@ -32,7 +33,7 @@ Each file inside `categories/` contains prompts grouped by use case and model ty
 
 - High-quality image generation prompts  
 - Organized by category (portraits, mockups, etc.)  
-- Model-specific prompt sections (Midjourney V8, GPT Image 2) 
+- Model-specific prompt sections (Midjourney V8, GPT Image 2, etc.) 
 - Source links for verification and inspiration  
 - Strictly **Safe For Work (SFW)** prompts only  
 
@@ -128,7 +129,6 @@ No people, no modern buildings, no vehicles. Pure untouched nature. Immersive, r
 ```
 A dramatic close-up portrait of a school-aged boy with soft features and neatly combed hair, wearing a simple casual white t-shirt, gazing upward with an innocent expression and a sense of hope in his eyes. The image uses extreme Chiaroscuro lighting with a single harsh light source from the side, creating deep shadows and high-contrast highlights on the skin's texture. Dark, moody background, Caravaggio-inspired style, hyper-realistic, 8k, cinematic photography
 ```
-#### **Source:** [awesome-image-prompts](https://github.com/tejasashinde/awesome-image-prompts)
 
 ---
 
