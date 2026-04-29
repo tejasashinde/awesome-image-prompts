@@ -284,6 +284,50 @@ Style: Ultra-detailed, 8k parody commercial photography, sharp focus on the can,
 ```
 **Source:** [@tonysimons_](https://x.com/tonysimons_/status/2048057490940596595)
 
+### Crime Safety Infographic
+**Prompt:**
+```
+DOMAIN: "Crime, Safety & Justice"
+
+HEADLINE: "Violent crime in the US has fallen 50% since 1993. Most Americans think it's at an all-time high."
+
+Use Google Search to find: US violent crime rate trend 1990–today (FBI UCR/BJS NCVS data), percentage decline from 1993 peak to today, and Gallup polling data showing % of Americans who believe crime is increasing (consistently 60–70%+ even as crime falls). Cream #F7F3EC. Square.
+
+HEADLINE: "Crime is down 50% since 1993. Most Americans think it's going up. Both true simultaneously."
+
+SUBHEAD: "US VIOLENT CRIME RATE vs PUBLIC PERCEPTION · 1990–PRESENT · BJS/FBI + GALLUP"
+
+CHART: Dual-axis diverging chart.
+
+LINE A (electric blue): US violent crime rate per 100,000 — sharp peak 1991–1993, dramatic decline, near historic lows today.
+
+LINE B (coral dashed): % of Americans saying crime is "up from last year" (Gallup) — stays high, barely reflects actual trend. The two lines diverge dramatically. Reality vs perception.
+
+ANNOTATION: "The crime rate and the public's feeling about crime have almost no relationship."
+
+SOURCE: "Bureau of Justice Statistics NCVS · FBI Uniform Crime Reports · Gallup Crime Poll"
+```
+**Source:** [@maxescu](https://x.com/maxescu/status/2043979078798323727)
+
+### World Knowledge and Photorealism Infographic
+**Prompt:**
+```
+Create a four-image capability showcase:
+1. A full-body human anatomy poster titled "Human Anatomy - Anterior View", split between muscles, bones, organs, arteries, veins, and nerves, with dense readable medical labels and a legend.
+2. A detailed physical world map poster with oceans, countries, terrain relief, compass rose, scale, and small data tables along the bottom.
+3. A realistic photo of a closed Bath & Body Works storefront seen through glass doors, with a printed sign saying the store is closed for the evening.
+4. A dark-mode YouTube homepage screenshot with realistic video thumbnails, sidebar navigation, channel names, view counts, and readable UI text.
+Make every label and interface element sharp, aligned, and believable.
+```
+**Source:** [@levelsio](https://x.com/levelsio/status/2040333489476681758)
+
+### Japanese Educational Infographic
+**Prompt:**
+```
+Design a Japanese educational infographic titled "ChatGPTで画像を作るコツ" for an OpenAI Academy-style slide. Use four numbered columns with colorful headers, icons, checkmarks, Japanese bullet points, prompt examples along the bottom, and a simple workflow diagram. Keep the layout clean, readable, and presentation-ready.
+```
+**Source:** [@super_bonochin](https://x.com/super_bonochin/status/2043859866968891617)
+
 ---
 
 ## GPT Image 1.5

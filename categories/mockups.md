@@ -97,6 +97,27 @@ Tilt-shift miniature aesthetic, ultra-detailed, commercial product photography, 
 ```
 **Source:** [@Strength04_X](https://x.com/Strength04_X/status/2048074514278563949)
 
+### Jacket Flat-lay Product Concept Mockup
+**Prompt:**
+```
+A jacket with no zip, no buttons, no fastening — closes perfectly.
+```
+**Source:** [@SRKDAN](https://x.com/SRKDAN/status/2044658491592257866)
+
+### Watch Product Concept Mockup
+**Prompt:**
+```
+A watch with no crown, no buttons — a sealed case that sets itself.
+```
+**Source:** [@SRKDAN](https://x.com/SRKDAN/status/2044658491592257866)
+
+### Leather Wallet Product Mockup
+**Prompt:**
+```
+A leather wallet with no stitching, no clasp, no visible opening.
+```
+**Source:** [@SRKDAN](https://x.com/SRKDAN/status/2044658491592257866)
+
 ---
 
 ## GPT Image 1.5

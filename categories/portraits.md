@@ -100,6 +100,20 @@ Portrait photography of a Japanese high school boy. White background. White shir
 ```
 **Source:** [MJ alpha](https://alpha.midjourney.com/jobs/7e2f95d8-67f5-4051-98fa-a8a8d6fbf41b)
 
+### Close-up front-facing ID photo of Young Chinese Woman
+**Prompt:**
+```
+Close-up front-facing ID photo of a young Chinese woman, 18-20 years old, striking and confident look, wealthy and slightly proud demeanor, pure white background, 16:9. 2006 Chinese makeup style: matte velvet foundation, clean flawless base. Eyebrows: thin, arched willow-leaf shape. Eyes: subtle smoky eye makeup, with delicate pearlescent shimmer on eyelids, thick mascara, defined lashes. Lips: crystal lip, plump, sheer and glossy in a pinky rose or natural transparent shade, shiny and moist. Hair: sleek long straight hair or high ponytail, glossy black. Even soft lighting, realistic texture, 8k, high resolution. Keep the vintage 2006 authentic look.
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com/jobs/e2d5af6f-2307-4a0e-99df-454bb29ac927?index=2)
+
+### Close-up front-facing ID photo of Young Chinese Woman
+**Prompt:**
+```
+Cinematic, ultra HD shot of a ruggedly handsome, Adonis like Korean model on a Seoul rooftop at night. Muscular physique subtly highlighted by soft neon lights, creating a natural sheen reflecting cool blue and pink city tones. Tousled wavy ash blonde hair, piercing gaze directed at camera, black eyes, exuding strength and allure. Minimal jewelry on neck and chest. Wearing a slightly open black shirt in soft fabric, layered with a lightweight jacket - effortless K idol inspired elegance. Softly blurred glowing neon skyline background adds depth. Rich color grading, high contrast emphasizing features and cinematic night lighting. Timeless, intense, atmospheric - balancing strength and modern elegance.
+```
+**Source:** [MJ alpha](https://alpha.midjourney.com/jobs/aabd9f68-cbe8-4c92-bc65-e042c0b0f2e6?index=3)
+
 ---
 
 ## GPT Image 2
@@ -209,6 +223,20 @@ A stylish young woman with long wavy blonde hair, defined cheekbones, and a conf
 Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements
 ```
 **Source:** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
+
+### Korean Idol Full-body Portrait
+**Prompt:**
+```
+CCD compact camera direct on-camera flash, full-body portrait, eye-level straight-on shot, gorgeous Korean idol woman, early 20s, 9-head body proportion, standing in confident S-curve pose with weight on back leg, front leg slightly forward and bent at knee, elongating leg line, one hand forming finger-gun gesture pressed against temple, head tilted, sharp cold gaze directly into lens, lips slightly parted, expression reads effortless danger — sexy and unbothered, long jet-black pin-straight hair reaching lower back, silky texture with fine strand separation under flash, no bangs, hair tucked behind one ear revealing jawline, cold-toned porcelain skin with authentic texture — visible fine pores on cheeks and nose, soft peach fuzz on jawline and cheekbones catching light, subtle subsurface scattering at ear edges and nose tip, natural skin micro-texture with faint expression lines, matte healthy glow with zero oiliness or plastic sheen, cool-white undertone, no yellow cast, no tan, refined Korean makeup — clean elongated cat eyeliner, individual lash strands visible, groomed natural brows, soft nude-pink matte lip, subtle highlighter on nose bridge and cheekbone peaks, small beauty mark under left eye, black thin-strap deep-V camisole top, fitted, fabric clinging to torso sculpting slim waist and lifted bust, black high-waisted bodycon mini skirt ending mid-thigh, fabric hugging hip curves with visible tension at seams, bare long toned legs with realistic skin texture — faint knee definition, subtle muscle tone, natural skin color variation, black pointed-toe stiletto heels 10cm, direct on-camera flash lighting, hard light quality, properly exposed — skin detail fully preserved with no blowout, characteristic CCD flash contrast: subject crisp and bright, background falling off to deep shadow behind her, short hard shadow outline cast on wall directly behind, slight natural vignette at frame corners, CCD color rendition — punchy midtone contrast, slightly cool white balance from flash mixing with warm ambient, ultra-realistic skin detail under harsh direct light, every pore and fine hair strand rendered, fabric weave texture visible on black garments, metallic sheen on stiletto heel catching flash, hair strands individually lit with scattered micro-highlights, sharp critical focus on eyes and face, 8K UHD, RAW photograph, masterpiece, best quality, photorealistic, zero stylization, real human being
+```
+**Source:** [@BubbleBrain](https://x.com/BubbleBrain/status/2040786536409809073)
+
+### Cinematic Close-up Shot of a Bald Man Driving a Car
+**Prompt:**
+```
+Create a cinematic close-up shot of a bald man driving a car, seen through the windshield. He has a serious expression, one hand on the steering wheel, warm sunlight and shadow bands across his face, realistic car interior fabric, shallow depth of field, and a gritty film still look.
+```
+**Source:** [@synthwavedd](https://x.com/synthwavedd/status/2040509720864174359)
 
 ---
 
