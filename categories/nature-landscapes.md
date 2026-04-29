@@ -4,6 +4,7 @@
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
 - [GPT Image 1.5](#gpt-image-15)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -58,3 +59,31 @@ Create an ultra-HD, hyper-realistic digital poster of a floating miniature islan
 Panoramic travel postcard of Santorini-style cliffside at golden hour: whitewashed buildings, realistic sea reflections, tourists are realistic small-scale figures, maintain atmospheric haze and warm selective contrast, include small legible caption 'Santorini, Greece' in bottom-right. Aspect ratio: 16:9
 ```
 **Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+---
+
+## Nano Banana 2
+
+### Aerial view of mist-wrapped highland valley
+**Prompt:**
+```
+Aerial view of mist-wrapped highland valley. Rolling emerald hills, dark winding river, steep mountain faces with peaks in low cloud. High camera elevation looking down. Palette: deep greens, blue-grey water, silver-white sky. Overcast diffusion. Single-track road disappears into distance. Untamed, vast, sacred mood.
+```
+**Source:** [Imagine Art](https://www.imagine.art/blogs/nano-banana-2-prompt-guide)
+
+### Sun-Baked Dirt Road Through Lush Green Pastures
+**Prompt:**
+```
+[Subject]: A winding, sun-baked dirt road stretching endlessly towards the horizon, marked by faint tire tracks and bordered by rustic wooden fences.
+
+[Action]: The road leads the viewer's eye through the heart of the landscape, vanishing into the rolling terrain.
+
+[Environment]: Vast, lush green pastures speckled with vibrant wildflowers like {argument name="wildflowers" default="poppies, cornflowers, and daisies"} swaying in a gentle breeze; soft, undulating hills in the distance under a brilliant cerulean sky scattered with fluffy, white cumulus clouds.
+
+[Cinematography]: Wide-angle landscape shot ({argument name="lens" default="24mm lens"}), deep depth of field (f/16) ensuring sharpness from the textured gravel in the foreground to the distant peaks.
+
+[Lighting/Style]: Bright, natural daylight with soft, diffuse shadows, invoking a sense of serenity and pastoral beauty; vibrant, true-to-life colors.
+
+[Technical]: 4k resolution, ultra-realistic texture mapping, National Geographic style photography, pristine clarity.
+```
+**Source:** [Imagine Art](https://www.imagine.art/blogs/nano-banana-2-prompt-guide)

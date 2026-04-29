@@ -4,6 +4,7 @@
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
 - [GPT Image 1.5](#gpt-image-15)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -135,3 +136,55 @@ Studio lighting, ultra-realistic 4K photo of a modern smartwatch on a reflective
 White-background product shot of matte ceramic mug: front and three-quarter views, crisp shadows, true color reproduction, realistic reflections, add small price tag overlay with legible font 'USD 24.99'—ensure text renders accurately and is clear at small sizes.
 ```
 **Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+## Nano Banana 2
+
+### 4-Part Story of Fluffy Creatures
+**Prompt:**
+```
+Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
+```
+**Source:** [@GoogleAI](https://x.com/GoogleAI/status/2027094912357761319)
+
+### Skincare Product Photography: Frosted Citrus Bottle
+**Prompt:**
+```
+Ultra-realistic skincare advertising photography featuring a frosted citrus glass bottle labeled “{argument name="product name" default="Glow Recipe – Lemon Brightening Glow Serum (30 ml)"}” floating mid-air.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Luxury Skincare Ad: Pineapple & Glowing Skin
+**Prompt:**
+```
+Ultra-realistic beauty product photography of a woman with flawless glowing skin against a soft yellow background, holding a fresh pineapple slice over one eye like a playful frame while looking directly at the camera, glossy lips, natural makeup, short sleek dark hair, gold hoop earrings, manicured nails, holding a faceted glass dropper bottle filled with golden pineapple bright serum, minimal white tank top, tropical skincare aesthetic, bright studio lighting, macro detail, vibrant citrus tones, high-end cosmetic advertising, shallow depth of field, 85mm lens, ultra sharp, luxury skincare campaign style.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### UNIK Tigernut Drink Advertisement
+**Prompt:**
+```
+Ultra-realistic lifestyle beverage advertisement featuring a chilled bottle of “{argument name="drink name" default="UNIK – Jaggery & Natural Tigernut Drink"}.” The bottle stands on a clean marble or gym countertop surrounded by natural ingredients such as tigernuts, almonds, coconut slices, and dates. A smooth splash of creamy tigernut milk flows upward behind the bottle while ice cubes scatter around it. The bottle is covered with condensation droplets indicating cold freshness. The background features a bright modern fitness studio with soft natural lighting and blurred gym equipment. The composition communicates energy, health, and natural nutrition. High-end commercial beverage photography, macro details, shallow depth of field, ultra-realistic textures, photorealistic lighting, clean advertising style, 8K resolution.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Ultra-luxurious Perfume Campaign Photograph
+**Prompt:**
+```
+Ultra-luxurious perfume campaign photograph, elegant glass perfume bottle placed on a polished black marble surface with golden reflections, soft cinematic lighting, dark moody background, delicate mist of perfume in the air, floating golden particles, dramatic shadows, premium editorial aesthetic, macro product focus, extremely detailed glass reflections, high-end fashion advertising style, shot on a professional DSLR, 85mm lens, shallow depth of field, photorealistic, 8K resolution, luxury brand vibe similar to high fashion fragrance campaigns.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### 3D floating cosmetic bottle
+**Prompt:**
+```
+Prompt1 : 3D floating cosmetic bottle, gradient from juicy strawberry red to fresh kiwi green, modern white typography, background with strawberries and kiwi slices, bright airy lighting --ar 2:3 --stylize 400
+
+Prompt 2: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400
+
+Prompt 3: 3D floating cosmetic bottle, gradient from creamy coconut white to pineapple yellow, modern white typography, background with coconut halves and pineapple rings, tropical airy lighting --ar 2:3 --stylize 400
+
+Prompt 4: 3D floating cosmetic bottle, gradient from deep cherry red to grape purple, modern white typography, background with cherries and grapes, glossy airy lighting --ar 2:3 --stylize 400
+
+Prompt 5: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)

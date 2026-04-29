@@ -4,6 +4,7 @@
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
 - [GPT Image 1.5](#gpt-image-15)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -290,3 +291,235 @@ Black-and-white documentary portrait of a fisherwoman returning with morning cat
 A relaxed three-quarter portrait of a 55-year-old fisherman with weathered tan skin and salt-grey hair, standing by a wooden harbor railing at overcast noon. Shot on a Fujifilm X-T5 with a 56mm f/1.2 lens. Even soft daylight, no harsh shadow, every wrinkle and pore sharply rendered. He half-smiles toward the camera, knit sweater stretched and pilled from real wear. Background fishing boats softly out of focus. Documentary color grading, slight film-like halation around highlights.
 ```
 **Source:** [Filmora](https://filmora.wondershare.com/ai-prompt/chatgpt-image-1-5-prompt.html)
+
+---
+
+## Nano Banana 2
+
+### Couture Pearl Bridal Editorial
+**Prompt:**
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "Nano Banana 2",
+      "task_type": "couture_pearl_bridal_editorial",
+      "version": "v4.3_SATIN_BRIDE_MORE_DEFINED_ELEGANT_BEAUTIFUL"
+    },
+
+    "input": {
+      "mode": "image_to_image",
+      "multi_reference": true,
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+      "identity_lock": "strict",
+      "no_identity_blending": true,
+      "notes": "Use the uploaded woman reference exactly for identity. Keep her fully recognizable. Refine her bridal beauty so she looks more elegant, attractive, graceful, and high-end, with more defined facial features, while remaining realistic and natural."
+    },
+
+    "scene": {
+      "type": "cinematic bridal portrait",
+      "location": "classic European-style interior with grand piano, dark wood panel walls, vintage paintings, refined aristocratic atmosphere",
+      "emotion": "radiant, elegant, romantic, poised, timeless cinematic beauty"
+    },
+
+    "styling": {
+      "absolute_lock": true,
+      "no_variation_allowed": true,
+
+      "bride": {
+        "dress_base": "strapless sculpted ivory silk satin wedding gown with a structured corseted bodice, softly curved neckline, sculpted waist, full flowing A-line skirt, and a long elegant satin train",
+        "pearl_upgrade": "ultra-delicate micro pearls embroidered along the neckline, bodice seams, and subtly scattered across the upper gown surface, refined and luxurious, never heavy",
+        "fabric": "heavy premium silk satin with rich density, smooth liquid-like drape, luminous soft reflections, and unmistakable couture satin texture, no cheap shine",
+        "fit": "perfect couture tailoring, sculpted waist, elegant volume, refined proportions",
+        "veil": "full-length sheer ivory tulle bridal veil attached to a sleek low bun, lightweight and airy, softly flowing behind the bride, subtly embellished with delicate micro pearls, semi-transparent, elegant, not covering the face",
+        "veil_physics": "ultra-light natural tulle movement, soft floating drape, realistic gravity, gentle motion",
+        "train": "long flowing satin train naturally spread on the floor",
+        "shoes": "white elegant high heels",
+        "hair": "sleek refined low bun, clean and polished, softly flattering to the face, suitable for veil placement",
+        "makeup": "high-end luminous bridal makeup, refined skin finish, softly sculpted cheeks, subtly defined eyes, elegant lashes, delicate rosy blush, controlled highlight, flattering nude-pink lips",
+        "jewelry": "a delicate vintage diamond necklace at the neck, elegant and timeless, with fine old-world detailing, paired with minimal pearl earrings and a subtle pearl bracelet",
+        "nails": "sheer nude glossy almond nails with delicate white lace detailing",
+        "hands": "empty hands, no bouquet, no flowers"
+      }
+    },
+
+    "beauty_direction": {
+      "facial_structure": "more defined cheekbones, refined jawline, elegant chin line, balanced facial symmetry, softly sculpted features",
+      "eyes": "more expressive, luminous, warm, captivating eyes",
+      "lips": "softly defined, elegant, naturally flattering lip shape",
+      "skin": "healthy luminous skin with natural texture, refined glow, no plastic smoothness",
+      "presence": "graceful, magnetic, luxurious, poised, feminine",
+      "beauty_style": "sophisticated natural beauty, high-end bridal elegance, more attractive and refined without losing realism or identity"
+    },
+
+    "cinematography": {
+      "camera": "ARRI Alexa Mini LF",
+      "lens": "50mm prime",
+      "aperture": "f/1.8",
+      "depth_of_field": "cinematic shallow focus",
+      "lighting": "soft directional window light with flattering facial illumination, subtle contour-enhancing shadows, cinematic highlights on satin and veil",
+      "color_palette": "ivory, warm brown wood, muted gold accents, soft skin tones",
+      "color_grading": "Kodak Portra 400 cinematic look",
+      "style": "cinematic fine art bridal, museum-like atmosphere, not fashion editorial"
+    },
+
+    "pose": {
+      "body_language": "graceful elongated posture, elegant neckline, refined shoulders, poised feminine stance, naturally flattering angles",
+      "interaction": "light touch near the piano, relaxed couture presence",
+      "expression": "soft radiant smile, confident elegance, calm and captivating"
+    },
+
+    "physics_and_realism": {
+      "anatomy": "perfect human anatomy",
+      "fabric": "realistic satin drape and veil behavior",
+      "wind": "very subtle natural air movement affecting the veil and train",
+      "no_glitches": true
+    },
+
+    "realism": {
+      "priority": "maximum realism",
+      "no_ai_look": true,
+      "no_cgi": true,
+      "natural_imperfections": true
+    },
+
+    "negative_prompt": {
+      "dress_errors": "wrong dress shape, matte fabric, non-satin fabric, short dress, casual dress, over-designed gown, cheap satin, plastic shine",
+      "veil_errors": "heavy veil, opaque veil, face covered, large pearls, plastic pearls, stiff veil",
+      "jewelry_errors": "chunky necklace, modern flashy necklace, oversized jewelry, colored gemstones",
+      "beauty_errors": "puffy face, flat facial structure, weak jawline, dull eyes, harsh makeup, vulgar styling, exaggerated sexy pose, uncanny beauty, artificial face, overfilled lips",
+      "styling_errors": "bouquet, flowers, glitter, clutter, excessive jewelry, modern casual styling",
+      "anatomy_errors": "extra limbs, distorted hands, broken joints, unnatural posture",
+      "ai_artifacts": "cgi look, plastic skin, over-smooth skin, distortions",
+      "text": "no text, no logo, no watermark"
+    },
+
+    "output_settings": {
+      "resolution_target": "ultra_high_res",
+      "detail_level": "extreme realism",
+      "render_quality": "film-grade luxury",
+      "num_images": 1
+    }
+  }
+}
+```
+**Source:** [@astronomerozge1](https://x.com/astronomerozge1/status/2037575062161633704)
+
+### Cinematic White Groom Editorial
+**Prompt:**
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "Nano Banana 2",
+      "task_type": "cinematic_white_groom_editorial",
+      "version": "v1.1_WHITE_TUXEDO_GROOM_WALL_LEAN_POSE"
+    },
+
+    "input": {
+      "mode": "image_to_image",
+      "reference_image_usage": "very_high",
+      "preserve_identity": true,
+      "preserve_facial_features": true,
+      "identity_lock": "strict",
+      "no_identity_blending": true,
+      "notes": "Use the uploaded reference man exactly for identity. Keep his face unchanged. Create a highly attractive cinematic groom portrait in a white tuxedo."
+    },
+
+    "scene": {
+      "type": "luxury cinematic groom portrait",
+      "location": "elegant architectural interior wall with soft texture, neutral tones, refined luxury environment",
+      "emotion": "confident, magnetic, masculine, cinematic calm"
+    },
+
+    "styling": {
+      "absolute_lock": true,
+      "no_variation_allowed": true,
+
+      "groom": {
+        "outfit": "ultra-tailored white tuxedo jacket with sharp structured shoulders, sculpted waist, black satin shawl lapels, crisp white shirt, black tailored trousers",
+        "fabric": "premium structured luxury fabric, clean silhouette, no cheap shine",
+        "tie": "black silk tie or minimal bow tie, refined and elegant",
+        "shoes": "polished black formal shoes",
+        "hair": "clean softly slicked-back hairstyle, refined masculine styling",
+        "grooming": "sharp jawline, natural skin texture, subtle cinematic shadow definition",
+        "accessories": "minimal cufflinks or elegant watch"
+      }
+    },
+
+    "pose": {
+      "framing": "three-quarter or full body",
+      "body_position": "leaning against a wall with one shoulder and upper back lightly touching the wall",
+      "leg_position": "one leg straight, the other slightly bent forward or crossed at the ankle",
+      "hands": "one hand casually in pocket, the other relaxed or adjusting cuff",
+      "torso": "slightly angled, relaxed but strong posture",
+      "head": "slightly tilted downward or turned subtly to the side",
+      "expression": "intense, calm, attractive, self-assured, slightly serious",
+      "energy": "effortless masculine confidence, natural and cinematic"
+    },
+
+    "cinematography": {
+      "camera": "ARRI Alexa Mini LF",
+      "lens": "50mm prime",
+      "aperture": "f/1.8",
+      "depth_of_field": "cinematic shallow focus",
+      "lighting": "soft directional light from one side, creating gentle facial shadows and strong suit contrast",
+      "color_grading": "Kodak Portra 400 cinematic look",
+      "contrast": "soft cinematic contrast with rich blacks and clean whites",
+      "style": "luxury wedding film still, not fashion catalog"
+    },
+
+    "physics_and_realism": {
+      "anatomy": "perfect human anatomy",
+      "fabric": "realistic tuxedo tension and fold behavior",
+      "no_glitches": true
+    },
+
+    "realism": {
+      "priority": "maximum realism",
+      "no_ai_look": true,
+      "no_cgi": true
+    },
+
+    "negative_prompt": {
+      "pose_errors": "stiff pose, awkward arms, unnatural leaning, exaggerated angles",
+      "styling_errors": "casual suit, oversized fit, wrinkled tuxedo, colorful elements",
+      "face_errors": "identity change, distorted face, over-smoothed skin",
+      "anatomy_errors": "extra limbs, broken joints",
+      "ai_artifacts": "cgi look, plastic skin",
+      "text": "no text, no logo, no watermark"
+    },
+
+    "output_settings": {
+      "resolution_target": "ultra_high_res",
+      "render_quality": "film-grade luxury",
+      "num_images": 1
+    }
+  }
+}
+```
+**Source:** [@astronomerozge1](https://x.com/astronomerozge1/status/2037575062161633704)
+
+
+### Night portrait of young woman in demin jacket in city sidewalk
+**Prompt:**
+```
+Night street portrait of a stylish young woman with long dark hair wearing a loose dark denim jacket and black top, standing on a city sidewalk beside a red and white traffic cone, direct camera flash illuminating her face and jacket, glossy skin highlights, warm yellow streetlights and cars in the background, softly blurred urban buildings and pedestrians, cinematic nighttime atmosphere, street photography style, high detail, realistic lighting, 35mm flash photography, shallow depth of field.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Elegant Studio Portrait: Monochromatic Tailored Suit
+**Prompt:**
+```
+Elegant studio portrait of a confident woman wearing a monochromatic {argument name="outfit color" default="burnt-orange"} tailored suit and satin shirt, standing against a matching {argument name="background color" default="orange"} background, hands in pockets, short wavy brown hair, round glasses, minimal gold jewelry and hoop earrings, soft natural makeup, fashion editorial style, clean minimal composition, soft studio lighting with subtle shadows, modern luxury aesthetic, ultra-realistic, high detail, 8K fashion photography.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Night portrait of young woman in trench coat
+**Prompt:**
+```
+A stunning, candid night-time street style photo of a radiant young woman in a chic beige oversized trench coat. She is walking away from a luxury restaurant, holding a massive, overflowing armful of long-stemmed red roses and a small designer shopping bag. She is partially turned back toward the camera with a brilliant, genuine laugh. The background is a beautifully blurred metropolitan street at night, with a bokeh effect of city lights, glowing shop windows, and wet pavement reflecting the neon signs. The lighting is cinematic: warm golden light from a nearby window hits her face, while cool street-light accents her hair. High-quality smartphone photography with realistic skin textures, subtle motion blur to capture the movement, and a shallow depth of field. Every detail of the roses and the trench coat fabric is crisp. Intense "main character energy" and high-end lifestyle aesthetic-ar 4:5
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)

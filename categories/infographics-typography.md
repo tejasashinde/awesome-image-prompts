@@ -4,6 +4,7 @@
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
 - [GPT Image 1.5](#gpt-image-15)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -338,3 +339,40 @@ Design a Japanese educational infographic titled "ChatGPTで画像を作るコ�
 A clean infographic showing 'AI Content Workflow' with four horizontal panels, each with an icon and short description, bold sans-serif text, minimal flat design.
 ```
 **Source:** [GenAIntel](https://www.genaintel.com/guides/gpt-image-1-5-launch-guide-complete)
+
+## Nano Banana 2
+
+### Macro Photograph of a Luxury WASI Watch
+**Prompt:**
+```
+A macro photograph of an expensive, luxury wristwatch, the '{argument name="watch model" default="WASI – W Eclipse Edition"}'. The watch has a prominent two-tone case made of brushed titanium and polished rose gold with angular, complex lines. The crown, also in rose gold, has a micro-engraved 'W' emblem. The watch is placed in a three-quarter view, angled towards the right, on a highly reflective black marble surface with prominent white veining, which shows a partial reflection of the watch and its band.
+​The dial is deep obsidian black, radiating a subtle sunburst pattern from the center. Its defining feature is a large, sculptural, open-worked 'W' structure made of polished metallic components that arches across the center, revealing the intricate mechanical gears of the movement beneath it. The floating 'W' serves as a dominant central element. The hours are marked by applied rose gold hour markers, with Roman numerals '12', '3', and '6'. Minute markers are visible along the outer edge. The brand name 'WASI' is minimalistically engraved at the 12 o'clock position in brushed platinum lettering.
+​The hands are skeletonized and geometric, made of polished rose gold with integrated ice-blue luminous material that glows softly. There are two main hands and a central seconds hand. The strap is black matte crocodile leather with a polished rose gold deployant clasp that also has a micro-engraved 'W' insignia.
+​In the background, slightly out of focus, are luxury elements including a black velvet-lined box and a wooden panel with the text 'WASI' clearly engraved, suggesting a display. The lighting is dramatic and cinematic, with soft highlights and deep shadows that emphasize the varied textures, making it look like a high-end Swiss watch advertisement.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Rothschild's Strategic Coin Dealing
+**Prompt:**
+```
+# Instructions
+You are a professional illustrator and prompt engineer.
+Read the following [Blog Summary] and create an attractive illustration that intuitively conveys its content.
+Display the title at the top of the illustration.
+
+# Image Size
+1280px × 670px (Aspect ratio 16:9)
+
+# Output Conditions
+Brand Color: [#06c7b0]
+Simple and clean flat design.
+Place figures and icons drawn with uniform black outlines, partially using pastel accent colors (sky blue, coral pink, etc.).
+Emphasize rounded shapes and a soft impression.
+Diagram-centric composition (e.g., Venn diagrams, bar graphs, speech bubbles) with a friendly tone suitable for materials viewed by students and young people, or for social media.
+Design with ample white space, prioritizing visibility and balance.
+The figures appearing should be dressed as 18th-century European nobility.
+
+# Blog Summary
+Mayer Amschel Rothschild was not born into a privileged class, but a turning point arrived. He gained the opportunity to provide antique coins to Wilhelm IX, the Elector of Hesse, the regional ruler. However, that alone would make him just another antique coin dealer. What made him unusual was that he continued to provide rare antique coins to Wilhelm IX "at prices significantly lower than the market rate, disregarding profit." Normally, one would try to overcharge a person in power. But he prioritized gaining favor over picking up immediate small change.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)

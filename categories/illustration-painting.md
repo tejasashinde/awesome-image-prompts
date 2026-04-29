@@ -4,6 +4,7 @@
 - [Midjourney V8 Alpha](#midjourney-v8-alpha)
 - [GPT Image 2](#gpt-image-2)
 - [GPT Image 1.5](#gpt-image-15)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -196,3 +197,56 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 Design a Facebook ad for a virtual conference, modern flat-style illustration of a laptop and participants on video call, headline: ‘JOIN THE AI SUMMIT 2025’, subtitle for registration details, clear hierarchy, pastel background with minimal decorative shapes, professional and readable layout.
 ```
 **Source:** [Imagine Art](https://www.imagine.art/blogs/gpt-image-1-5-prompt-guide)
+
+## Nano Banana 2
+
+### Urban Portrait with Orange Streetwear and Tattoos
+**Prompt:**
+```
+Use the provided reference image strictly for the subject’s face and identity. Only translate the face into the new illustration style while maintaining accurate facial features.
+Create a stylized low-angle chest-up urban portrait. The subject’s head is slightly raised, giving a confident, street-inspired attitude.
+Appearance & StylingOrange-tinted sunglasses
+Gold chain necklace
+Patterned orange streetwear jacket
+Prominent neck and face tattoos
+Art Style
+
+Bold graphic digital illustration style with sharp shading, clean edges, and strong contrast, similar to a modern urban poster or street-art inspired artwork.
+Background
+
+A large, orange-filled circle, made with brush strokes, is placed behind the subject, with grunge paint splashes on a dark grey, textured background, creating a strong graphic composition.
+Lighting & Mood
+
+Warm reflections on the sunglasses and skin tones, high-contrast poster lighting, dramatic urban aesthetic, crisp illustration details, 4:5 aspect ratio.
+Maintain strong facial identity fidelity from the reference image while changing only the artistic style of the portrait.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Digital Caricature of Smiling Woman in Red Dress
+**Prompt:**
+```
+Create A vibrant, digital caricature-style illustration of a smiling woman [ use the uploaded photo as reference] with light red dress. The art style features bold black outlines, expressive facial features, and a clean white background with playful red accent marks around her head to convey high energy and joy. Vertical portrait, 4K. High resolution.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Anime Vector Portrait with Headphones
+**Prompt:**
+```
+Transform the person from the reference photo into a modern anime vector illustration while preserving the exact facial identity.
+Change the pose to a dramatic side profile with the head tilted upward, eyes closed, relaxed emotional expression as if listening to music.
+Add black over-ear headphones.
+Stylized messy anime hair, smooth skin shading, sharp jawline, clean cel shading.
+Minimalist bold red background, dramatic cinematic lighting, high contrast shadows.Transform the person from the reference photo into a modern anime vector illustration while preserving the exact facial identity.
+Change the pose to a dramatic side profile with the head tilted upward, eyes closed, relaxed emotional expression as if listening to music.
+Add black over-ear headphones.
+Stylized messy anime hair, smooth skin shading, sharp jawline, clean cel shading.
+Minimalist bold red background, dramatic cinematic lighting, high contrast shadows.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Watercolor Portrait with Dynamic Paint Splashes
+**Prompt:**
+```
+Create a vibrant and artistic watercolor painting of a smiling person, using the uploaded photo as the facial reference without altering their facial features or appearance. The background is clean white, filled with dynamic and expressive watercolor paint splashes in {argument name="splash colors" default="blue, orange, and purple"} spreading organically across the scene. In the foreground, a realistic human hand holds a paintbrush as if actively painting the sleeve of the man's hoodie, creating the illusion that the portrait is being painted at that exact moment. The visual style combines detailed ink line art with loose watercolor textures, including paint drips, fine splatters, soft pigment diffusion, watercolor blooming effects, and natural paper texture. The image features strong contrast, an expressive and dynamic artistic look, a clear hand-painted aesthetic, centered composition, soft lighting, high level of detail, and a modern illustration style. Aspecto vertical 9:16.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)

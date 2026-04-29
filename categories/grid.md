@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [GPT Image 2](#gpt-image-2)
+- [Nano Banana 2](#nano-banana-2)
 
 ---
 
@@ -56,3 +57,107 @@ Environment & Lighting: Set against a minimalist, neutral studio gray background
 Style & Finish: Matte textures, clean silhouettes, and sharp edges. Leave designated blank areas on the product surfaces for "Placeholder Branding" and "Graphic Mockups." 4k resolution, Unreal Engine 5 render style, hyper-realistic, clean aesthetic.
 ```
 **Source:** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2047627860752621647)
+
+---
+
+## Nano Banana 2
+
+### 4-Part Story of Fluffy Creatures
+**Prompt:**
+```
+Create a funny 4-part story featuring 3 fluffy creatures building a treehouse. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format, one at a time.
+```
+**Source:** [@GoogleAI](https://x.com/GoogleAI/status/2027094912357761319)
+
+### Quantum Mechanics Concepts Diorama
+**Prompt:**
+```
+2x2 grid of famous quantum mechanics concepts:
+
+Render =
+( Micro_Diorama_Platform * 1.0 ) +
+( Sculpted_Miniature_Backdrop_[TOPIC] * 1.5 ) +
+( 3D_Miniature_Scene_Sculpt_[TOPIC] * 2.0 ) +
+( Resin_and_Clay_Materials * 2.0 ) +
+( Cinematic_Miniature_Lighting * 2.0 ) +
+( Tiny_Mascot_Character * 1.0 ) +
+( Clean_Studio_Void * 1.0 )
+-
+( Photorealism / 2.0 ) -
+( Human_Proportions )
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Studio Fashion Photoshoot with Black Sunglasses
+**Prompt:**
+```
+Use my uploaded photo as the identity reference.
+Create a professional studio fashion photoshoot in a 2×2 grid collage showing four poses of the same person wearing black sunglasses.
+
+Outfit: deep emerald green tailored blazer, cream/off-white dress shirt, black slim trousers, burgundy tie, optional silver watch. Blazer appears differently across frames (worn, draped over shoulder, partially removed, held).
+Background: clean teal-to-turquoise gradient studio backdrop, minimal fashion studio setting.
+Poses:
+1.Close portrait adjusting tie.
+2.Seated editorial pose leaning forward with elbow on knee.
+3.Relaxed pose with vintage camera around neck.
+4.Stylish pose running hand through hair while holding blazer.
+Lighting: professional three-point studio lighting — softbox key light 45° camera left, soft fill light camera right, subtle rim light behind subject.
+Camera: Sony A7R V, 85mm portrait lens, f/2.2, ISO 100, 1/160s, WB 5600K, shallow depth of field, focus on eyes.
+Realism: natural skin pores, hair strands, subtle fabric wrinkles, realistic shadows, lens compression, reflections in sunglasses.
+Output: ultra-realistic GQ/Vogue-style editorial photography, sharp detail, 4K resolution, clean 2×2 grid layout.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Comic Universe 4 Tiles
+**Prompt:**
+```
+2x2 grid, do this for 4 titles in a famous comic universe: <spatial_map>
+    [ VERTICAL SCENIC BACKDROP (BOOK COVER) ]
+    |      (Floating Label: [{argument name="issue title" default="ISSUE_TITLE"} | {argument name="year" default="YEAR"}])
+    |                                            |
+    |      [3D TOY: {argument name="hero" default="HERO"}] vs [3D TOY: {argument name="villain" default="VILLAIN"}]   |
+    |          \__ [3D PLASTIC FX] __/           |
+    |                                            |
+ ---+--------------------------------------------+---
+   /    [OPEN BOOK PAGES WITH COMIC PANELS]     /
+  /                                            /
+ /      [ FLOATING 3D TEXT: [SFX_WORD]! ]     /
+/____________________________________________/
+</spatial_map>
+Instruction: Render a photorealistic 3D diorama matching this exact structural geometry.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Studio Fashion Photoshoot with Black Sunglasses
+**Prompt:**
+```
+A cinematic video depicting a woman's charm through delicate tea time actions and changes in expression. Using shallow depth of field and warm tones, capturing close-ups of her hands pouring tea, rising steam, soft gaze, and subtle breathing fluctuations. Composed of four warm, lingering cuts with a relaxed tempo and direction, including ASMR sound elements.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Coffee's Journey: From Origin to Cup Documentary
+**Prompt:**
+```
+A coffee's journey board from {argument name="origin" default="[ORIGIN]"} to cup {argument name="variety process roaster" default="[VARIETY / PROCESS / ROASTER]"}.
+Three-panel documentary photography layout, shot on medium format. No illustrations. No flat graphics. No hand-drawn elements.
+Left panel, The Origin: Aerial and macro photography of a specific hillside farm at {argument name="altitude" default="[ALTITUDE]"}m, morning mist still on the canopy. Extreme close-up of a picker's weathered hands selecting red cherries. Wet mill or raised drying beds photographed mid-process, real equipment, real workers, natural light. Varietal name and altitude typeset in clean serif over the image.
+Center panel, The Transformation: Burlap sacks stacked in a warehouse, origin ink stamps in focus. Interior of a roastery drum roaster glowing amber through a porthole, heat haze visible. A minimal line graph of the roast curve overlaid in white type, first crack and second crack marked as timestamps. Macro shot of roasted beans mid-pour, steam catching side light.
+Right panel, The Cup: A ceramic pour-over in progress, water threading in a slow spiral, the bloom exhaling upward in real steam. Final cup resting on a worn café table in warm morning window light. Tasting notes [NOTES] set in light italic type floating near the rim, not illustrated, typographic only.
+Color arc: Tropical green → roastery amber → café morning gold. Cinematic color grading, not illustrated.
+Title block: "[COFFEE NAME] [FARM], [REGION], [ALTITUDE]M, [PROCESS], [ROAST PROFILE]" — typeset in bold condensed sans-serif across the top.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Woman's Portrait Collage with Various Expressions
+**Prompt:**
+```
+stylish collage made from six square portraits of the same woman (use the uploaded photo as the face reference), arranged in a clean 2x3 grid. Each frame shows a different expression and pose of the same person: {argument name="expression 1" default="smiling"}, {argument name="expression 2" default="laughing"}, {argument name="expression 3" default="surprised"}, {argument name="expression 4" default="playful wink"}, {argument name="expression 5" default="thoughtful look"}, and {argument name="expression 6" default="confident serious expression"}. The woman wears the same outfit and reflective sunglasses, with wind-blown hair. Bright blue sky and colorful flowers surround the frames, creating a vibrant spring aesthetic. Each panel has slightly different angles and gestures, like reaching toward the camera, tilting the head, or adjusting sunglasses. High-fashion editorial style, ultra-detailed, vibrant colors, soft sunlight, photorealistic, sharp focus, modern Instagram collage aesthetic, 8K.
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Floating Soap Bubble Object with Iridescent Reflections
+**Prompt:**
+```
+floating {argument name="object" default="[OBJECT]"} entirely made of soap bubble material, ultra thin translucent shell, fully transparent, no solid parts, all elements made from the same material, seamless continuous surface, hollow lightweight structure, smooth organic geometry, intensified thin-film interference, strong chromatic dispersion, visible spectrum separation, prismatic light splitting, vivid iridescent reflections, high contrast iridescence, edge rainbow highlights, spectral highlights on edges, slightly increased color saturation, subtly enhanced colors, clean color separation, low angle shot, centered composition, floating against a smooth gradient sky-blue background, soft sky blue gradient, very subtle light cloud hints, bright sky, luminous sky blue, bright natural daylight, clear daylight, well-lit scene, high clarity, no haze, no dull colors, no desaturation, minimal background, polished CGI aesthetic, ultra clean render, soft reflections, high detail
+```
+**Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
