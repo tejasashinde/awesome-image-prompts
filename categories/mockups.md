@@ -119,6 +119,24 @@ A leather wallet with no stitching, no clasp, no visible opening.
 ```
 **Source:** [@SRKDAN](https://x.com/SRKDAN/status/2044658491592257866)
 
+### English and Japanese UI Rendering Test
+**Prompt:**
+```
+Create two side-by-side web page mockups for a text rendering test. One version should use English UI text and the other should use Japanese UI text. Keep the layouts similar, make the typography readable, and present both like polished website screenshots.
+```
+**Source:** [@itnavi2022](https://x.com/itnavi2022/status/2040385921099702621)
+
+### SaaS Homepage and Pricing Flow
+**Prompt:**
+```
+modern SaaS website homepage, figma style, clean navigation bar, hero section with floating prompt input UI, rounded card, soft shadow, minimal design
+
+background filled with colorful creative design boards, portfolio layouts, typography posters, UI mockups, grid composition
+
+centered composition, elegant spacing, premium UI design, soft lighting, subtle depth, product landing page, 8k, ultra clean
+```
+**Source:** [@qiufenghyf](https://x.com/qiufenghyf/status/2044982293497090128)
+
 ---
 
 ## GPT Image 1.5

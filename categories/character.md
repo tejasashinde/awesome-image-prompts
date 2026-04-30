@@ -54,4 +54,18 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 ```
 **Source:** [@Toshi_nyaruo_AI](https://x.com/iamrednightS/status/2045075682837836265)
 
+### Anime Mecha Concept Sheet
+**Prompt:**
+```
+Create a concept sheet for a next-generation anime protagonist mecha. Show a towering black-and-silver robot with glowing accents, multiple technical callouts, front and side details, weapon notes, small pilot references, and polished industrial design presentation on a dark studio background.
+```
+**Source:** [@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2044432354979328317)
+
+### Old Game Character Sheet
+**Prompt:**
+```
+Turn this single reference image of an old game character into a complete production-ready character sheet. Include front, side, and back views, facial expressions, close-up head details, accessories, material notes, weapon references, and a clean layout suitable for 3D modeling or concept art.
+```
+**Source:** [@os_orabi](https://x.com/os_orabi/status/2045184916434948580)
+
 ---

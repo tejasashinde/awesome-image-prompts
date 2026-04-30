@@ -189,6 +189,27 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 ```
 **Source:** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
 
+### Rough Colored-Pencil Plant Study
+**Prompt:**
+```
+Create rough colored-pencil concept sketches of a small potted seedling with simple gardening hardware nearby. Keep the lines uneven, the coloring loose, and the overall drawing slightly amateur and natural rather than polished or perfect.
+```
+**Source:** [@Masimo_Blue](https://x.com/Masimo_Blue/status/2041394970159124693)
+
+### Jewel-Toned Mermaid Fantasy
+**Prompt:**
+```
+Create a luminous fantasy illustration of a pink-haired mermaid princess swimming through an underwater palace filled with glowing crystals, pearls, gold ornaments, and floating bubbles. Use rich jewel tones, sparkling water caustics, elegant dress-like fins, and a magical storybook atmosphere.
+```
+**Source:** [@NeneneAI](https://x.com/NeneneAI/status/2042405877798564161)
+
+### Floating Fantasy City at Dusk
+**Prompt:**
+```
+Create an epic fantasy city floating high above the clouds at dusk. Show glowing bridges, layered towers, hanging gardens, waterfalls dropping into the sky, and warm sunset light breaking through dramatic clouds. Make it feel like a grand matte painting for a fantasy film.
+```
+**Source:** [@old_pgmrs_will](https://x.com/old_pgmrs_will/status/2043098871962964397)
+
 ## GPT Image 1.5
 
 ### Flat-Style Virtual Conference Ad

@@ -161,3 +161,21 @@ stylish collage made from six square portraits of the same woman (use the upload
 floating {argument name="object" default="[OBJECT]"} entirely made of soap bubble material, ultra thin translucent shell, fully transparent, no solid parts, all elements made from the same material, seamless continuous surface, hollow lightweight structure, smooth organic geometry, intensified thin-film interference, strong chromatic dispersion, visible spectrum separation, prismatic light splitting, vivid iridescent reflections, high contrast iridescence, edge rainbow highlights, spectral highlights on edges, slightly increased color saturation, subtly enhanced colors, clean color separation, low angle shot, centered composition, floating against a smooth gradient sky-blue background, soft sky blue gradient, very subtle light cloud hints, bright sky, luminous sky blue, bright natural daylight, clear daylight, well-lit scene, high clarity, no haze, no dull colors, no desaturation, minimal background, polished CGI aesthetic, ultra clean render, soft reflections, high detail
 ```
 **Source:** [nanobanana.org](https://nanobanana.org/banana-prompts)
+
+### Four-image test set for text, realism, and character rendering
+**Prompt:**
+```
+Create a four-image test set for text, realism, and character rendering:
+1. A realistic newspaper on a cafe table with the headline "OpenAI Unveils GPT-Image-2", columns of readable article text, coffee, glasses, water, pastry, and a pen.
+2. A Japanese TV weather broadcast screenshot from Shibuya at 6:45, with live-news overlays, weather icons, temperature, humidity, wind speed, and readable Japanese captions.
+3. A photorealistic cat-ear maid cosplayer eating soft-serve ice cream on the Spanish Steps in Rome, with tourists and architecture in the background.
+4. A clean anime illustration of a cheerful twin-tail gothic girl waving, with a speech bubble saying "Hi!".
+```
+**Source:** [@itnavi2022](https://x.com/itnavi2022/status/2040454708616405496)
+
+### Mechanical Keyboard Design Grid
+**Prompt:**
+```
+一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则
+```
+**Source:** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
